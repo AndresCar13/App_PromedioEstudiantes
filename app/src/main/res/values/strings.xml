@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PromedioAlumnos</string>
+    <string name="estatus_del_alumno">Estatus del Alumno</string>
+    <string name="nota_1">Nota 1</string>
+    <string name="nota_2">Nota 2</string>
+    <string name="nota_3">Nota 3</string>
+    <string name="evaluar">Evaluar</string>
+</resources>
